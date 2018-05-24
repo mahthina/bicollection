@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Testing/collectInfo"
-	"Testing/tarUtil"
+	"bicollection/collectInfo"
+	"bicollection/tarUtil"
 	"archive/zip"
 	"errors"
 	"fmt"
